@@ -1,7 +1,5 @@
 # import libraries.
-import seaborn as sns
 import pandas as pd
-import matplotlib.pyplot as plt
 import streamlit as st
 import plotly_express as px
 
